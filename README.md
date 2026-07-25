@@ -47,7 +47,7 @@ To run this project locally:
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/princecodex200/princecodex-portfolio.git
+   git clone [https://github.com/9jastack/syo-portfolio.git]
 
 
 🧠 What I Learned
@@ -66,9 +66,9 @@ Deploying live web projects
 
 📬 Email: [olanisimisunday86@gmail.com]
 
-🔗 Portfolio: [https://princecodex.crisent.com/]
+🔗 Portfolio: [https://9jastack.vercel.com/]
 
-🔗 LinkedIn: [https://linkedin.com/in/princecodex]
+🔗 LinkedIn: [https://www.linkedin.com/in/9jastack/]
 
 ⭐️ Support
 
