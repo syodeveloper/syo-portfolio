@@ -2,7 +2,7 @@
 
 Welcome to the source code for **PrinceCodex** — a personal portfolio website built to showcase my work, skills, and services as a web developer.
 
-🔗 Live Demo: [[https://princecodex.crisent.com/](https://9jastack.vercel.app/)]
+🔗 Live Demo: [https://9jastack.vercel.app/]
 
 ---
 
